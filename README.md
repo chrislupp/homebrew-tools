@@ -28,7 +28,8 @@ brew "<formula>"
 
 ## Available formulae
 
-Formulae will be listed here as they are added.
+- [`papercut`](https://github.com/chrislupp/Papercut) — Convert source code
+  files to PDF with configurable formatting.
 
 ## Maintainer notes
 
