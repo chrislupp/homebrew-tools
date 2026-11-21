@@ -1,8 +1,8 @@
 class Scirocco < Formula
   desc "Airfoil panel code with adjoint gradients for design optimization"
   homepage "https://github.com/chrislupp/Scirocco"
-  url "https://github.com/chrislupp/Scirocco/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "2aec4bb3fd0b4f22032f6f6c2a3a92f8151e76e8ba189d902077536286966069"
+  url "https://github.com/chrislupp/Scirocco/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "bd20dc4d8d8cf4f945af9c5de9b66610c5a7e236d32d7f0b85d5cbce7af7f3cc"
   license "Apache-2.0"
   head "https://github.com/chrislupp/Scirocco.git", branch: "develop"
 
