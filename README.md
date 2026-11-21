@@ -28,11 +28,14 @@ brew "<formula>"
 
 ## Available formulae
 
+- [`fauxfoil`](https://github.com/chrislupp/Scirocco) — fauXFOIL, an
+  XFOIL-style command-line program with a Qt plot window, built on Scirocco.
+  It installs `scirocco` as a dependency and follows its releases.
 - [`papercut`](https://github.com/chrislupp/Papercut) — Convert source code
   files to PDF with configurable formatting.
 - [`scirocco`](https://github.com/chrislupp/Scirocco) — C++ airfoil panel
   code with adjoint gradients for design optimization. Its release workflow
-  updates the formula on every release.
+  updates this formula and `fauxfoil` on every release.
 
 ## Maintainer notes
 
