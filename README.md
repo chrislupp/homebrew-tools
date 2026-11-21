@@ -30,6 +30,9 @@ brew "<formula>"
 
 - [`papercut`](https://github.com/chrislupp/Papercut) — Convert source code
   files to PDF with configurable formatting.
+- [`scirocco`](https://github.com/chrislupp/Scirocco) — C++ airfoil panel
+  code with adjoint gradients for design optimization. Its release workflow
+  updates the formula on every release.
 
 ## Maintainer notes
 
