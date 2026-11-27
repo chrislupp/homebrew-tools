@@ -3,8 +3,8 @@ class Fauxfoil < Formula
   homepage "https://github.com/chrislupp/Scirocco"
   # Built from Scirocco's release source; its release workflow keeps this
   # url and sha256 the same as in scirocco.rb.
-  url "https://github.com/chrislupp/Scirocco/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "bd20dc4d8d8cf4f945af9c5de9b66610c5a7e236d32d7f0b85d5cbce7af7f3cc"
+  url "https://github.com/chrislupp/Scirocco/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "f51232f1c66a4f5be66516b0a18e08a62813d6c0be17e5254e129b21b6347a66"
   license "Apache-2.0"
   head "https://github.com/chrislupp/Scirocco.git", branch: "develop"
 
